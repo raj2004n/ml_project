@@ -1,4 +1,6 @@
 panda
 numpy
 seaborn
+setuptools
+scikit-learn
 -e .

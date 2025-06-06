@@ -3,4 +3,5 @@ numpy
 seaborn
 setuptools
 scikit-learn
+dill
 -e .
